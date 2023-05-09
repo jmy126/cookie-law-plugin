@@ -1,6 +1,9 @@
+[English](/jmy126/cookie-law-plugin/README.md)  [简体中文](/jmy126/cookie-law-plugin/READMEcn.md)
+
+[Buy Me A Coffee](https://www.buymeacoffee.com/itnongfu)
 cookieBAR is a free & easy solution to the EU cookie law.
 
-Why use cookieBAR?
+**Why use cookieBAR?**
 There is a lot of mystery and fuss surrounding the new EU cookie legislation, but it's essentially really simple. Cookies are files used to track site activity and most websites use them. Site owners need to make the use of cookies very obvious to visitors.
 
 Cookie bar makes it simple and clear to visitors that cookies are in use and tells them how to adjust browser settings if they are concerned.
@@ -10,7 +13,7 @@ Get to this page, configure the cookiebar to your needs and place the generated 
 
 https://28apk.com/cookie-bar/#configuration
 
-How it works?
+**How it works?**
 cookieBAR is a drop-in and forget, pure vanilla javascript plugin, with no jQuery nor any other dependency needed. It shows up when needed and stay silent when not: if a website has a cookie or some localStorage data set then the bar is shown, otherwhise nothing happens.
 
 Once user clicks Allow Cookies cookieBAR will set a cookie for that domain with a name cookiebar that will expire in 30 days. What this means is that the plugin will only show up once month (this duration is configurable).
