@@ -1,4 +1,4 @@
-[English](/jmy126/cookie-law-plugin/README.md)  [简体中文](/jmy126/cookie-law-plugin/READMEcn.md)
+[English](/README.md)  [简体中文](/READMEcn.md)
 
 [Buy Me A Coffee](https://www.buymeacoffee.com/itnongfu)
 cookieBAR is a free & easy solution to the EU cookie law.
